@@ -1,0 +1,69 @@
+{
+   "msg": "success",
+   "data": [
+     {
+       "id": 1,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_1.jpg",
+       "site": "https://www.google.dz/"
+     },
+     {
+       "id": 2,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_2.jpg",
+       "site": "https://www.youtube.com/"
+     },
+     {
+       "id": 3,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_3.jpg",
+       "site": "https://www.google.dz/"
+     },
+     {
+       "id": 4,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_4.jpg",
+       "site": "https://www.youtube.com/"
+     },
+     {
+       "id": 5,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_5.jpg",
+       "site": "https://www.youtube.com/"
+     },
+     {
+       "id": 6,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_6.jpg",
+       "site": "https://www.youtube.com/"
+     },
+     {
+       "id": 7,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_7.jpg",
+       "site": "https://www.youtube.com/"
+     },
+     {
+       "id": 8,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_8.jpg",
+       "site": "https://www.youtube.com/"
+     },
+     {
+       "id": 9,
+       "title": "سنة جديدة سعيدة\r\nعرض خاص \r\nتوفير 50%",
+       "desc": "Reference site about Lorem Ipsum, giving information on its origins",
+       "image": "https://raw.githubusercontent.com/App-liv/book/refs/heads/main/ads/home_9.jpg",
+       "site": "https://www.youtube.com/"
+     }
+   ]
+ }
+ 
